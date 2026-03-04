@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "死別",
+  "base_artist": "シャノン",
+  "createdAt": "2026-03-04T16:29:59.556166Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「死別 / シャノン」 cover by saewool",
+      "artist": "saewool",
+      "has_synced": true,
+      "path": "select/01_「死別___シャノン」_cover_by_saewool_saewool.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「死別 / シャノン」 cover by saewool",
+      "artist": "saewool",
+      "has_synced": true,
+      "path": "select/02_「死別___シャノン」_cover_by_saewool_saewool.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死別",
+      "artist": "シャノン",
+      "has_synced": false,
+      "path": "select/pl_01_死別_シャノン.txt"
+    }
+  ]
+}
